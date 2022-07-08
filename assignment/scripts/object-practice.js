@@ -57,4 +57,4 @@ console.log(me.shoeCount); //new shoe count with new pair that Dane bought for m
 
 me.favoriteColor = 'Blue'; //added my favorite color in case someone wanted to buy me a new car :P
 
-console.log('A little bit more about me:', me);
+console.log('A little bit more about me:', me); //loging to show newly added property
